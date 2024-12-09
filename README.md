@@ -7,7 +7,7 @@
 ## Integrante (s)
 
 - André Henrique
-- João Gustavo Pires Da Costa
+- João Gustavo Pires da Costa
 
 ## Professor
 
