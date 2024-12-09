@@ -15,7 +15,10 @@
 # Descrição do Projeto
 
 Meu projeto foi escolhido como aprendizado em Unreal modificando cenarios e colocando em prática o Manequim da Unreal para andar pelo cenario criado.
+Como segundo plano decidi fazer o passo a passo do DeepMotion também.
 
 # Link Video de referência para
-
+Unreal
 https://www.youtube.com/watch?v=eRY2E44TYWM
+DeepMotion
+https://www.youtube.com/watch?v=97zGmkdhSNU
