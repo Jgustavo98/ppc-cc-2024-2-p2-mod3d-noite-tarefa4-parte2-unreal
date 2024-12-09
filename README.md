@@ -15,7 +15,7 @@
 
 # Descrição do Projeto
 
-O projeto foi escolhido como aprendizado em Unreal modificando cenarios e colocando em prática o Manequim da Unreal para andar pelo cenario criado.
+O  projeto foi escolhido como aprendizado em Unreal modificando cenarios e colocando em prática o Manequim da Unreal para andar pelo cenario criado.
 Como segundo plano decidimos fazer o passo a passo do DeepMotion também.
 
 # Link Video de referência para
